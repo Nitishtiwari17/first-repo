@@ -93,7 +93,7 @@ class array
          //  }
       // } */
          
-    float [] marks={100.0f,200.5f,300.8f,400.9f,500.5f,600.6f};
+    float [] marks={100.0f,200.5f,305.8f,400.9f,500.5f,600.6f};
     float sum=0;
     for(float element:marks)
     {
